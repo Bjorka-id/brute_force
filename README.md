@@ -1,4 +1,4 @@
-# brute_force sc gratis ngab
+# BRUTE_FORCE INI SC GRATIS
 jangan lupa coly 1 hari 3× 
 
 pake aja ngab hasilnya ijo
@@ -16,7 +16,14 @@ $ cd brute_force
 $ chmod +x *
 
 $ python brute_force.py
-# PERINGATAN JIKA SC EROR LAPOR ADMIN
+# PERINGATAN!!
+Jika Script Mengalami Eror 
+
+Segera Lapor Ke Admin
+
+Sekalian Seve Nomor Admin 
+
+Oke Sekian Trimakasih
 
 
 
